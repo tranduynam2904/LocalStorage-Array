@@ -29,6 +29,7 @@ function App() {
   };
   return (
     <div>
+      <h1>Da up lan 2</h1>
       <input type='text' placeholder='Name' value={Name} onChange={handle_change_name} />
       <input type='text' placeholder='Old' value={old} onChange={handle_change_old} />
       <ul>
